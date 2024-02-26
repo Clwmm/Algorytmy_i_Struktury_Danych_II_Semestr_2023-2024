@@ -1,0 +1,5 @@
+# ignore all .gz files
+*.gz
+
+# ignore all .txt files
+*.txt

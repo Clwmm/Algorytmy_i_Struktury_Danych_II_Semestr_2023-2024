@@ -8,6 +8,8 @@ Funkcje do zaimplementowania:
 - różnica dwóch zbiorów,
 - przecięcie dwóch zbiorów.
 
+Należy użyć posortowanych list, a operacje sumy, różnicy i przecięcia napisać rekurencyjnie.
+
 
 
 Kompilowanie:

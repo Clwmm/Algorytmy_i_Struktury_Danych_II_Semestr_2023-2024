@@ -1,0 +1,17 @@
+Proszę zaimplementować kolejkę priorytetową z
+operacjami dodawania elementu i pobierania
+elementu z kolejki. W implementacji proszę
+wykorzystać tablicową reprezentację kopca.
+
+
+Kompilowanie:
+    @ Kompilacja programu main.cpp:
+        - make all
+        - make main.x
+
+Uruchamianie po kompilacji:
+    @ Uruchamianie program main.x:
+        - ./main.x
+
+Kompilacja i uruchamianie:
+    - make run

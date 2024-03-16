@@ -13,13 +13,13 @@ Należy użyć posortowanych list, a operacje sumy, różnicy i przecięcia napi
 
 
 Kompilowanie:
-    @ Kompilacja programu Set.cpp:
+    @ Kompilacja programu main.cpp:
         - make all
-        - make Set.x
+        - make main.x
 
 Uruchamianie po kompilacji:
-    @ Uruchamianie program Set.x:
-        - ./Set.x
+    @ Uruchamianie program main.x:
+        - ./main.x
 
 Kompilacja i uruchamianie:
     - make run

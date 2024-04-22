@@ -1,0 +1,35 @@
+Korzystając z załączonego fragmentu podręcznika 
+"Algorytmy. Struktury danych i techniki programowania" 
+P. Wróblewskiego, proszę zaimplementować graf skierowany 
+oraz graf nieskierowany na dwa sposoby:
+- jako macierz sąsiedztwa (reprezentacja tablicowa),
+- jako listę sąsiedztwa (reprezentacja za pomocą słownika węzłów).
+
+Na wejściu program powinien przyjmować informację, 
+czy graf jest skierowany, czy nie, liczbę wierzchołków, 
+liczbę krawędzi oraz pary wierzchołków określające 
+poszczególne krawędzie.
+
+Ponadto program powinien umożliwiać następujące operacje:
+
+a) dla grafu skierowanego: 
+- podanie stopnia wchodzącego (liczba wchodzących krawędzi) i wychodzącego (liczba krawędzi wychodzących) danego wierzchołka,
+- podanie listy sąsiadów danego wierzchołka (czyli wierzchołków, do których prowadzi krawędź wychodząca),
+- podanie listy wierzchołków, dla których dany wierzchołek jest sąsiadem (czyli wierzchołków, od których prowadzi krawędź wchodząca),
+
+b) dla grafu nieskierowanego: 
+- podanie stopnia danego wierzchołka,
+- podanie listy sąsiadów danego wierzchołka.
+
+
+Kompilowanie:
+    @ Kompilacja programu main.cpp:
+        - make all
+        - make main.x
+
+Uruchamianie po kompilacji:
+    @ Uruchamianie program main.x:
+        - ./main.x
+
+Kompilacja i uruchamianie:
+    - make run
